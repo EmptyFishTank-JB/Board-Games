@@ -6,9 +6,11 @@
 
 Plundering an enemy ship can only be done if:
 
-- Your ship is fully upgraded.
+- Your ship is **fully upgraded** – it has both of its cannon upgrades and both of its mast upgrades.
 - You must **successfully attack** an enemy ship **without sinking it.**
 - After combat, **roll against the defending player** to resolve the Plunder attempt.
+
+The roll is a standard **d6**, same as a normal attack roll. **Ties go to the defender.**
 
 The **defending player chooses** one of two roll methods:
 
