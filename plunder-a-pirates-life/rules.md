@@ -34,12 +34,11 @@ If **you lose the roll (or tie)**, your attacking ship **loses a life point inst
 ### Cthulhu Idol - Relic of the Deep
 
 ![Cthulhu Idol components](assets/cthulhu-idol-1.jpeg)
+![Cthulhu Idol components](assets/cthulhu-idol-2.jpeg)
 
-*(Details on this item are not written yet.)*
+*(This is planned to be an obtainable item, but its rules haven't been designed yet.)*
 
 ### Kraken's Rum & Kraken's Die (D6)
-
-![Kraken's Die](assets/kraken-die.jpeg)
 
 **Setup** - At the start of the game, spin the compasses to determine the location of the **Kraken's Rum.**
 
