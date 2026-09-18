@@ -4,27 +4,30 @@
 
 ## Plundering
 
-Plundering an enemy ship can only be done if:
+Plundering is chosen **instead of a normal attack** – on your turn, you decide whether a ship attacks normally (dealing damage) or attempts to Plunder (stealing loot) against an enemy ship. You cannot do both to the same ship in the same turn.
+
+Plundering an enemy ship can only be attempted if:
 
 - Your ship is **fully upgraded** – it has both of its cannon upgrades and both of its mast upgrades.
-- You must **successfully attack** an enemy ship **without sinking it.**
-- After combat, **roll against the defending player** to resolve the Plunder attempt.
+- The target ship is still alive. A destroyed ship cannot be Plundered.
 
-The roll is a standard **d6**, same as a normal attack roll. **Ties go to the defender.**
+**How a Plunder roll differs from a normal attack:**
 
-The **defending player chooses** one of two roll methods:
+- A normal attack is a single die roll, and cannon upgrades add to that roll.
+- A Plunder roll does **not** get a cannon bonus for either player – it's decided on the raw **d6** alone, win or lose.
+- The **defending player chooses** how the roll is resolved:
+  - A **1 out of 1 roll-off**, or
+  - A **2 out of 3 showdown** – best of three rolls wins.
+- **Ties go to the defender.**
 
-- A **1 out of 1 roll-off**, or
-- A **2 out of 3 showdown** – best of three rolls wins.
-
-If **you win the roll**, perform one of the following **Plundering actions**:
+If **you win the roll**, perform one of the following:
 
 - **Steal a held item** from the defending ship.
 - **Take two random resource cards** from the defending player. If the defender only has one resource card, that single card is taken instead. If the defender has none, there is nothing to steal with this option.
 
-If **you lose the roll**, your attacking ship **loses a life point,** and **no Plundering** takes place.
+If **you lose the roll (or tie)**, your attacking ship **loses a life point instead** – the same cost as losing a normal attack – and **no Plundering** takes place.
 
-**Each ship may Plunder only once per turn.** However, you may attempt to **Plunder again** using a **different ship** against a **different enemy vessel.**
+**Each ship may attempt to Plunder only once per turn.** However, you may attempt to Plunder again using a **different ship** against a **different enemy vessel.**
 
 ## Obtainable Items
 
