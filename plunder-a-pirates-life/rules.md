@@ -20,7 +20,7 @@ The **defending player chooses** one of two roll methods:
 If **you win the roll**, perform one of the following **Plundering actions**:
 
 - **Steal a held item** from the defending ship.
-- **Take two random resource cards** from the defending player.
+- **Take two random resource cards** from the defending player. If the defender only has one resource card, that single card is taken instead. If the defender has none, there is nothing to steal with this option.
 
 If **you lose the roll**, your attacking ship **loses a life point,** and **no Plundering** takes place.
 
