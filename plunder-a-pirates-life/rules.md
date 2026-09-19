@@ -47,7 +47,7 @@ If **you lose the roll (or tie)**, your attacking ship **loses a life point inst
 **Losing the Kraken's Rum** - You may **lose** **possession** of the **Kraken's Rum** under one of the following conditions:
 
 - If the **claiming ship** is **lost in battle**, the **Kraken's Rum** is placed at the **location** where the ship **sank**. Any player may **collect it by sailing over that space.**
-- If your ship is successfully **Plundered by** **an** **attacker** (see **Plundering** rules), the **Kraken's Rum transfers** to the **attacking ship**.
+- If your ship is successfully **Plundered by an attacker** who chooses to **steal a held item** (see **Plundering** rules), the **Kraken's Rum transfers** to the **attacking ship**. If the attacker instead chooses to take resource cards, the Kraken's Rum stays put.
 
 #### Kraken's Rum Effects
 
@@ -107,7 +107,7 @@ This is **mandatory** – it's the double-edged cost of holding the Kraken's Rum
 **Losing the** **Jar of Dirt** **-** You may **lose possession** of the **Jar of Dirt** under one of the following conditions:
 
 - If the **claiming ship** is **lost in battle**, the **Jar of Dirt** is placed at the **location** where the ship **sank**. Any player may **collect it by sailing over that space.**
-- If your ship is successfully **Plundered by an attacker** (see **Plundering** rules), the **Jar of Dirt** **transfers** to the **attacking ship**.
+- If your ship is successfully **Plundered by an attacker** who chooses to **steal a held item** (see **Plundering** rules), the **Jar of Dirt transfers** to the **attacking ship**. If the attacker instead chooses to take resource cards, the Jar of Dirt stays put.
 
 #### Jar of Dirt's Effects
 
