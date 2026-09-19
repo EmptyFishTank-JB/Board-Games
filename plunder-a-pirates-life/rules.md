@@ -57,31 +57,38 @@ If **you lose the roll (or tie)**, your attacking ship **loses a life point inst
 
 **Active Effect – Kraken's Draft**
 
-- Before your movement roll, **roll the Kraken's Die** and **resolve its effect.**
-- Then, **draw** a number of **Treasure Cards** equal to your roll — **all at once**. Do not resolve any cards until the full set is drawn. If any of the following cards appear — **The Kraken**, **Drink Up**, or **Blackout** — **read them aloud**, but do not trigger their effects immediately.
+This is **mandatory** – it's the double-edged cost of holding the Kraken's Rum, on top of its passive benefit.
+
+- Before your movement roll, **roll the Kraken's Die.** This one roll does two things at once:
+  - **Look up its result on the Kraken's Die Table below** and resolve that outcome.
+  - **Draw that many Treasure Cards, all at once** (e.g. a roll of 4 draws 4 cards). Both the table outcome and the card draw always happen together – they are not alternatives.
+- Do not resolve any drawn Treasure Cards until the full set is drawn. If any of the following cards appear — **The Kraken**, **Drink Up**, or **Blackout** — **read them aloud**, but do not trigger their effects immediately.
 - If **only one** of the mentioned cards is drawn, **resolve it normally.**
 - If **more than one** appears, the **next Pirate in turn** randomly selects **one** for you to resolve. **Ignore** **the others.**
 - If the card **Blackout** is selected, the ship carrying the **Kraken's Rum** is the one that is **relocated.**
 - After resolving the selected effect, place all drawn Treasure Cards at the bottom of the Treasure Deck.
-- **Optional Mechanic –** If the card **The Kraken** is drawn, **move the Kraken** **token** from its current location and **place it in front of your** **nearest ship**. That ship must **bat** **t** **le** **the Kraken** to claim the card's resources.
-- **Bonus Effect** – If you **rolled a 6** with the **Kraken's Die**, **gain** **+1** **A** **ttack** during the battle. Attack resets to normal after combat.
+- **Optional Mechanic –** If the card **The Kraken** is drawn, **move the Kraken token** from its current location and **place it in front of your nearest ship**. That ship must **battle the Kraken**:
+  - The **-1 Wood, -2 Iron** cost is paid regardless (fashioning the harpoons to make the attempt).
+  - If the battle is **won**, the ship also **gains the +4 Gold**.
+  - If the battle is **lost**, no Gold is gained – the Wood and Iron are spent for nothing.
+  - (Groups without a Kraken token/miniature can skip the battle and simply apply the full -1 Wood, -2 Iron, +4 Gold as a flat effect.)
+- **Bonus Effect** – If you **rolled a 6** with the **Kraken's Die**, **gain +1 Attack** during the Kraken battle. Attack resets to normal after combat.
 
 #### Kraken's Die Table
 
 | Roll | Effect Name | Outcome |
 |---|---|---|
-| 1 | Blackout Brew | Lose all **Rum** this turn. Discard 1 additional resource card or skip movement. |
+| 1 | Spoiled Spirits | Lose all **Rum** this turn. Discard 1 additional resource card or skip movement. |
 | 2 | Sea Sickness | **-1 Rum**. Nearest opponent gains **+1 rum**. |
 | 3 | Scallywag's Swill | **+1 attack** for all owned ships but also **-1 defense** until your next turn. |
 | 4 | Fortune's Froth | **+1 Rum** and **+1 Gold**! |
 | 5 | Saboteur's Cask | **+1 Rum**. Choose one Pirate to skip their next **Movement Roll**. |
 | 6 | Kraken's Favor | **+2 Rum** and immunity from any negative **Rum**-related effects this round. |
 
-#### Card Effects
+#### Treasure Card Effects
 
-- **Card Effects**
 - **The Kraken** – Description: Ye fashion harpoons ta kill the monster guardin this treasure.
-  - **-1 Wood**, **-2 Iron**, **+4 Gold**
+  - **-1 Wood**, **-2 Iron**, **+4 Gold** (see the Optional Mechanic above for the battle-contingent version)
 - **Drink Up** – Description: Ye find barrels of booze floating adrift. Waste not a drop nor a stave.
   - **+1Wood**, **+1 Rum**
 - **Blackout** – Description: This haul be barrels of liquid goodness. Ye celebrate too hard and fall asleep at the helm.
